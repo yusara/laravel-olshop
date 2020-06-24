@@ -1,0 +1,96 @@
+.navbar{
+    background-color:#FCC707;
+}
+.nav-margin{
+    margin-top: 80px;
+}
+.jumbotron{
+    background-image: url('/assets/img/jumbotron-bg-resized.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height:520px;
+}
+.jumbotron span{
+    margin-top: 100px;
+    font-size: xx-large;
+    color: white;
+}
+.jumbotron .jumbotron-btn{
+    border-radius: 25px;
+    background-color: #1643d4;
+    border: 0px;
+    padding: 5px 30px;
+}
+.jumbotron .jumbotron-btn:hover{
+    opacity: 0.7;
+}
+.section-wrapper{
+    margin: 0px 20px;
+}
+.harga{
+    color: red;
+}
+.see-more{
+    float: right;
+}
+.section-title{
+    color:black;
+    font-size: x-large;
+}
+.box1{
+    background-color: #090500;
+    height: 5px;
+}
+.product-content p{
+    min-height: 100px;
+}
+.kontak{
+    background-color: #FCC707 ;
+    height: 220px;
+}
+.kontak span{
+    display: inline-block;
+    font-size: x-large;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-bottom: #090500;
+}
+.kontak button{
+    padding: 5px 30px;
+    border-radius: 20px;
+}
+.kontak .button-yt{
+    background-color: #FF0000;
+    color: white;
+}
+.kontak .button-ig{
+    background: linear-gradient(45deg,#405DE6,#5851DB,#833Ab4,#c13584,#e1306c,#fd1d1d);
+    color: white;
+}
+.kontak .button-wa{
+    background-color: #25D366;
+    color: white;
+}
+/* .kontak .mp-button{
+    height : 60px;
+} */
+.kontak button:hover{
+    opacity: 0.6;
+}
+.fa {
+    padding: 0px 5px;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+
+
+
+  .addToCart{
+      display: inline;
+  }
